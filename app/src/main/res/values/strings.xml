@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Almacenamiento Externo Tarjeta SD</string>
+    <string name="mensaje_text">Mensaje</string>
+    <string name="btn_text">Guardar Mensaje</string>
+    <string name="test_sd_text">¡No se puede accerder a la tarjeta SD!</string>
+</resources>
